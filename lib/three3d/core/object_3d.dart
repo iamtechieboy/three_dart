@@ -493,7 +493,7 @@ class Object3D with EventDispatcher {
   }
 
   void raycast(Raycaster raycaster, List<Intersection> intersects) {
-    print("Object3D raycast todo ");
+    // print("Object3D raycast todo ");
   }
 
   void traverse(callback) {
