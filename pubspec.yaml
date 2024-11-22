@@ -17,7 +17,7 @@ dependencies:
   image: ^3.1.1
   flutter_gl:
     git:
-      url: https://github.com/kbot/flutter_gl.git
+      url: https://github.com/PurpleShipHub/flutter_gl.git
       ref: main
       path: flutter_gl
   crypto: ^3.0.1

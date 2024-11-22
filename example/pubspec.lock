@@ -115,8 +115,8 @@ packages:
     description:
       path: flutter_gl
       ref: main
-      resolved-ref: ab36a85abb404a12f9eb33e6e7a1cc0387ea0eee
-      url: "https://github.com/kbot/flutter_gl.git"
+      resolved-ref: "6ca323e4e5483ebcc441b036b21fb5604f361871"
+      url: "https://github.com/PurpleShipHub/flutter_gl.git"
     source: git
     version: "0.0.21"
   flutter_gl_macos:
